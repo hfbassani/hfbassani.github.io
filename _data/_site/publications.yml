@@ -1,0 +1,224 @@
+- title: "Large-Scale Visual Speech Recognition"
+  time: 1807
+  image: large-scale-2018.png
+  description: Why?
+  authors: 
+    - name: Brendan Shillingford
+    - name: Yannis Assael
+    - name: Matthew W. Hoffman
+    - name: "**Tom Le Paine**"
+    - name: Cían Hughes
+    - name: Utsav Prabhu
+    - name: Hank Liao
+    - name: Hasim Sak
+    - name: Kanishka Rao
+    - name: Lorrayne Bennett
+    - name: Marie Mulville
+    - name: Ben Coppin
+    - name: Ben Laurie
+    - name: Andrew Senior
+    - name: Nando de Freitas
+  venue: Pre-print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1807.05162
+- title: "Playing Hard Exploration Games by Watching YouTube"
+  time: 1805
+  image: playing-hard-2018.png
+  description: Why?
+  authors: 
+    - name: Yusuf Aytar
+    - name: Tobias Pfaff
+    - name: David Budden
+    - name: "**Tom Le Paine**"
+    - name: Ziyu Wang
+    - name: Nando de Freitas
+  venue: Pre-print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1805.11592
+- title: "Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions"
+  time: 1710
+  image: few-shot-2018.png
+  description: Why?
+  authors: 
+    - name: Scott Reed
+    - name: Yutian Chen
+    - name: "**Tom Le Paine**"
+    - name: Aäron van den Oord
+    - name: S. M. Ali Eslami
+    - name: Danilo Rezende
+    - name: Oriol Vinyals
+    - name: Nando de Freitas
+  venue: ICLR 2018
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1710.10304
+- title: "Fast Generation for Convolutional Autoregressive Models"
+  time: 1704
+  image: fast-generation-2017.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Prajit Ramachandran
+    - name: Pooya Khorrami
+    - name: Mohammad Babaeizadeh
+    - name: Shiyu Chang
+    - name: Yang Zhang
+    - name: Mark A. Hasegawa-Johnson
+    - name: Roy H. Campbell
+    - name: Thomas S. Huang
+  venue: ICLR 2017 (Workshop)
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1704.06001
+- title: "How Deep Neural Networks Can Improve Emotion Recognition on Video Data"
+  time: 1607
+  image: how-deep-2016.png
+  description: Why?
+  authors: 
+    - name: Pooya Khorrami
+    - name: "**Tom Le Paine**"
+    - name:Kevin Brady
+    - name:Charlie Dagli
+    - name: Thomas S. Huang
+  venue: ICIP 2016
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1602.07377
+- title: "Seq-NMS for Video Object Detection"
+  time: 1602
+  image: seq-nms-2016.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Wei Han
+    - name: Pooya Khorrami
+    - name: Prajit Ramachandran
+    - name: Mohammad Babaeizadeh
+    - name: Honghui Shi
+    - name: Jianan Li
+    - name: Shuicheng Yan
+    - name: Thomas S. Huang
+  venue: ICCV 2015 (Workshop)
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1602.08465
+- title: "Do Deep Neural Networks Learn Facial Action Units When Doing Expression Recognition?"
+  time: 1510
+  image: iccv-2015.png
+  description: Why?
+  authors: 
+    - name: Pooya Khorrami
+    - name: "**Tom Le Paine**"
+    - name: Thomas S. Huang
+  venue: ICCV 2015 (Workshop)
+  links: 
+    - name: PDF
+      url: http://arxiv.org/abs/1510.02969
+- title: "An Analysis of Unsupervised Pre-training in light of recent advances"
+  time: 1412
+  image: iclr-2015.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Pooya Khorrami
+    - name: Wei Han
+    - name: Thomas S. Huang
+  venue: ICLR 2015 (Workshop)
+  links: 
+    - name: PDF
+      url: http://arxiv.org/abs/1412.6597
+    - name: Code (Github)
+      url: https://github.com/ifp-uiuc/an-analysis-of-unsupervised-pre-training-iclr-2015
+
+- title: "Visual Media: History and Perspectives"
+  time: 1403
+  image: ieee-multimedia-2014.png
+  description: Why?
+  authors: 
+    - name: Thomas S. Huang
+    - name: Vuong Le
+    - name: "**Tom Le Paine**"
+    - name: Pooya Khorrami
+    - name: Usman Tariq
+  venue: IEEE Multimedia 2014
+  links: 
+    - name: PDF
+      url: assets/pdf/ieee-multimedia-2014.pdf
+
+- title: "GPU asynchronous stochastic gradient descent to speed up neural network training"
+  time: 1312
+  image: iclr-2014.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Hailin Jin
+    - name: Jianchao Yang
+    - name: Zhe Lin
+    - name: Thomas S. Huang
+  venue: ICLR 2014 (Workshop)
+  links: 
+    - name: PDF
+      url: http://arxiv.org/abs/1312.6186
+
+- title: "Deep learning for face recognition"
+  time: 1212
+  image: technical-report-2012.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Thapanapong Rukkanchanunt
+  venue: Technical report
+  links: 
+    - name: PDF
+      url: assets/pdf/technical-report-2012.pdf
+
+- title: "Simultaneous dynamic and functional MRI scanning (SimulScan) of natural swallows"
+  time: 1105
+  image: mrm-2011.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Charles Conway
+    - name: Georgia Malandraki
+    - name: Bradley Sutton
+  venue: Magnetic Resonance in Medicine
+  links: 
+    - name: PDF
+      url: assets/pdf/mrm-2011.pdf
+
+- title: "Examination of susceptibility effects on functional and dynamic magnetic resonance imaging"
+  time: 1108
+  image: masters-thesis-2011.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+  venue: "UIUC Master's thesis"
+  links: 
+    - name: PDF
+      url: assets/pdf/masters-thesis-2011.pdf
+
+- title: "Optimized preload leakage-correction methods to improve the diagnostic accuracy of dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging in posttreatment gliomas"
+  time: 1001
+  image: ajnr-2010.jpg
+  description: Why?
+  authors: 
+    - name: LS Hu
+    - name: LC Baxter
+    - name: DSPinnaduwage
+    - name: "**TL Paine**"
+    - name: JP Karis
+    - name: BG Feuerstein
+    - name: KM Schmainda
+    - name: AC Dueck
+    - name: J Debbins
+    - name: KA Smith
+    - name: P Nakaji
+    - name: JM Eschbacher
+    - name: SW Coons
+    - name: JE Heiserman
+  venue: American Journal of Neuroradiology
+  links: 
+    - name: PDF
+      url: assets/pdf/ajnr-2010.pdf

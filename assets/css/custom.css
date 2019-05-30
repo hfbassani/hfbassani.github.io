@@ -1,0 +1,50 @@
+.button {
+  border-radius: 4px;
+  text-transform: none;
+}
+
+.button-primary {
+  border-radius: 4px;
+  text-transform: none;
+}
+
+.container {
+  padding: 0 0;
+}
+
+.section {
+  padding: 2rem 0 0rem;
+  text-align: center;
+}
+
+.abstract {
+  text-align: left;
+}
+
+.highlight {
+  background-color: #CCCCCC;
+}
+
+.orange {
+  color: #FF5C3B;
+}
+
+.blue {
+  color: #2285D2;
+}
+
+.bg-orange {
+  background-color: #FF5C3B;
+}
+
+.bg-blue {
+  background-color: #2285D2;
+}
+
+.bg-gray {
+  background-color: #F1F1FA;
+}
+
+p {
+  margin-bottom: 0;
+}

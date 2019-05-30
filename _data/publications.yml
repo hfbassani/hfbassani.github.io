@@ -1,0 +1,25 @@
+- title: "Dynamic topology and relevance learning SOM-based algorithm for image clustering tasks"
+  time: 1808
+  image: TTS_large.jpg
+  description: Why?
+  authors: 
+    - name: Heitor Medeiros
+    - name: Felipe Oliveira
+    - name: Hansenclever Bassani
+    - name: Aluizio Araujo
+  venue: Computer Vision and Image Understanding
+  links: 
+    - name: PDF
+      url: 
+
+- title: "Dimension Selective Self-Organizing Maps With Time-Varying Structure for Subspace and Projected Clustering"
+  time: 1808
+  image: TTS_large.jpg
+  description: Why?
+  authors: 
+    - name: Hansenclever Bassani
+    - name: Aluizio Araujo
+  venue: IEEE Transactions on Neural Networks and Learning Systems
+  links: 
+    - name: PDF
+      url: 

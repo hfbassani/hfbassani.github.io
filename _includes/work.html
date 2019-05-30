@@ -1,0 +1,17 @@
+<!-- Work -->
+<div class="section">
+  <div class="container">
+    <h2 class="orange">Some of the places that I have worked</h2>
+    <div class="row" align="center">
+        {% for work in site.data.work1 %}
+            <div class="three columns">
+              <img class="img-responsive" src="{{ "/assets/img/work/" | prepend: site.baseurl }}{{ work.image }}" height=100 alt="">
+              <div><a href="{{ work.url }}">{{ work.name }}</a></div>
+              <div>{{ work.time }}</div>
+              </br>
+            </div> 
+        {% endfor %}
+    </div>
+    <hr>
+  </div>
+</div>
