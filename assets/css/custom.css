@@ -1,3 +1,9 @@
+.imgframe {
+  border-radius: 8px;
+  border: solid 1px gray;
+  padding:1px;
+}
+
 .button {
   border-radius: 4px;
   text-transform: none;
