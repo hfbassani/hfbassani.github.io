@@ -1,0 +1,64 @@
+- award: "3th place in the Very Small Size Soccer Category of the IRONCup 2018 - Brazil"
+  year: 2018
+  url: "https://robocin.github.io/categories.html"
+  img: IRONCup2018.png
+  members: 
+  - name: André Luís Damázio de Sales Júnior
+  - name: Caio Carvalho de Abreu e Lima
+  - name: Carlos Henrique Caloete Pena
+  - name: Cristiano Santos de Oliveira
+  - name: David Riff de França Tenório
+  - name: Esdras Barbosa Lima da Silva Júnior
+  - name: Gabriel Marques Bandeira
+  - name: Heitor Rapela Medeiros
+  - name: João Gabriel Machado da Silva
+  - name: João Lucas Oliveira Canhoto
+  - name: José Nilton de Oliveira Lima Júnior
+  - name: Juliana do nascimento Damurie da Silva
+  - name: Lucas Henrique Cavalcanti Santos
+  - name: Lucas Oliveira Maggi
+  - name: Marvson Allan Pontes de Assis
+  - name: Mateus Gonçalves Machado
+  - name: Raphael Cândido Brito
+  - name: Renato Sousa Bezerra
+  - name: Roberto Costa Fernandes
+  - name: Vinicius Bezerra Araújo da Silva
+  - name: Hansenclever de Franca Bassani
+  - name: Edna Natividade da Silva Barros
+- award: "3th place in the IEEE Very Small Size RoboCup Soccer in the Latin American and Brazilian Robotics Competition (LARC/CBR), with the team RoboCIn"
+  year: 2018
+  url: "https://robocin.github.io/categories.html"
+  img: LARC2018.png
+  members: 
+  - name: André Luís Damázio de Sales Júnior
+  - name: Caio Carvalho de Abreu e Lima
+  - name: Carlos Henrique Caloete Pena
+  - name: Cristiano Santos de Oliveira
+  - name: David Riff de França Tenório
+  - name: Esdras Barbosa Lima da Silva Júnior
+  - name: Gabriel Marques Bandeira
+  - name: Heitor Rapela Medeiros
+  - name: João Gabriel Machado da Silva
+  - name: João Lucas Oliveira Canhoto
+  - name: José Nilton de Oliveira Lima Júnior
+  - name: Juliana do nascimento Damurie da Silva
+  - name: Lucas Henrique Cavalcanti Santos
+  - name: Lucas Oliveira Maggi
+  - name: Marvson Allan Pontes de Assis
+  - name: Mateus Gonçalves Machado
+  - name: Raphael Cândido Brito
+  - name: Renato Sousa Bezerra
+  - name: Roberto Costa Fernandes
+  - name: Vinicius Bezerra Araújo da Silva
+  - name: Hansenclever de Franca Bassani
+  - name: Edna Natividade da Silva Barros
+- award: "Prize of 3th Best Product in the  Brazilian Congress of Informatics in Education (CBIE) with the website and app for Grading exams automaticaly"
+  year: 2017
+  url: "https://gradepen.com"
+  img: gradepen.png
+  members: 
+  - name: Hansenclever Bassani
+  - name: Cicero Garrozi
+  - name: André Tiba
+
+

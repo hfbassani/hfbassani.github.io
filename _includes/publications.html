@@ -1,24 +1,27 @@
 <!-- Publications -->
 <div class="section">
   <div class="container">
-    <h2 class="orange">Selected Publications</h2>
+    <h2 class="blue">Selected Publications</h2>
+    <p>&nbsp</p>
     {% for publication in site.data.publications %}
-      <div class="row">
-        <div class="four columns">
-          <img class="u-max-full-width" src="{{ "assets/img/publications/" | prepend: site.baseurl }}{{ publication.image }}">
-        </div>
-        <div class="eight columns abstract">
-            <div class="orange">{{ publication.title }}</div>
-            <div>{{ publication.authors | map: 'name' | join: ',  ' | markdownify }}</div>
-            <div class="blue">{{ publication.venue }}</div>
-            {% for link in publication.links %}
-                <a class="button" href="{{ link.url }}">
-                  {{ link.name }}
-                </a>
-            {% endfor %}
+      <div class="tooltip">
+        <span class="tooltiptext">{{publication.abstract}}</span>
+        <div class="row">
+          <div class="four columns">
+            <img class="u-max-full-width" src="{{ "assets/img/publication/" | prepend: site.baseurl }}{{ publication.image }}">
+          </div>
+          <div class="eight columns abstract">
+              <div class="orange">{{publication.year}} - {{ publication.title }}</div>
+              <div>{{ publication.authors | map: 'name' | join: ',  ' | markdownify }}</div>
+              <div class="blue">{{ publication.venue }}</div>
+              {% for link in publication.links %}
+                  <a class="button" href="{{ link.url }}">
+                    {{ link.name }}
+                  </a>
+              {% endfor %}
+          </div>
         </div>
       </div>
-      <hr>
     {% endfor %}
   </div>
 </div>

@@ -1,1 +1,47 @@
+- title: "Social Mobile Robots with Dexterous Manipulation"
+  year: 2015 - Current
+  image: tiago.jpg
+  members: 
+    - name: Aluizio Fausto Ribeiro Araújo
+    - name: Bruno José Torres Fernandes
+    - name: Byron Leite Dantas Bezerra
+    - name: Carmelo José Albanez Bastos Filho
+    - name: Fernando Buarque de Lima Neto
+    - name: Hansenclever de França Bassani
+    - name: Jaelson Freire Brelaz de Castro
+    - name: João Miguel da Costa Sousa
+    - name: Judith Kelner
+    - name: Paulo da Costa Luís da Fonseca Pinto
+    - name: Sérgio Campello Oliveira
+  funding: 
+    - agency: <br> - Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq
+    - agency: <br> - Fundação de Amparo a Ciência e Tecnologia do Estado de Pernambuco - FACEPE
 
+- title: "Robotic Infrared Detection System for Real-Time Thermal Monitoring and Evaluation of Substation Equipment"
+  year: 2013 - 2016
+  image: chesf.png
+  members: 
+    - name: Aluizio Fausto Ribeiro Araújo
+    - name: Hansenclever de França Bassani
+    - name: Tsang Ing Ren
+    - name: Daniel de Filgueiras Gomes
+    - name: Orivaldo Vieira de Santana Junior
+    - name: Diêgo João Costa Santiago
+  funding: 
+    - agency: <br> - Companhia Hidro Elétrica do São Francisco - CHESF
+    - agency: <br> - Agência Nacional de Energia Elétrica - ANEEL
+
+- title: "Intelligent Systems for External Inspection of Underwalter and Underground Pipelines"
+  year: 2006 - 2008
+  image: siid.png
+  members: 
+    - name: Aluizio Fausto Ribeiro Araújo
+    - name: Fernando Buarque de Lima Neto
+    - name: Hansenclever de França Bassani
+    - name: Daniel de Filgueiras Gomes
+    - name: Guilherme de Alencar Barreto
+    - name: José Maria P. de Menezes Jr.
+    - name: Marcelo Pita
+  funding: 
+    - agency: <br> - Petróleo Brasileiro S.A. — Petrobras
+    - agency: <br> - Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP

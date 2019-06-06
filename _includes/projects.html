@@ -1,22 +1,22 @@
 <!-- Code -->
 <div class="section">
   <div class="container">
-    <h2 class="orange">Code</h2>
-    <div class="row">
-      {% for code in site.data.code %}
-      <div class="three columns">
-        <img class="u-max-full-width" src="{{ "/assets/img/code/" | prepend: site.baseurl }}{{ code.image }}" alt="">
+    <h2 class="blue">Selected Research Projects</h2>
+    <p>&nbsp</p>
+    {% for project in site.data.projects %}
+    <div class="tooltip">
+      <div class="row">
+        <div class="three columns">
+          <img class="u-max-full-width" src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.image }}" alt="">
+        </div>
+        <div class="nine columns abstract">
+          <div class="orange">{{ project.title }} ({{ project.year }})</div>
+          <div>{{ project.members | map: 'name' | join: ',  ' }}</div>
+          <div class="blue">Funding: {{ project.funding | map: 'agency' | join: ' ' }}</div>
+        </div>
       </div>
-
-      <div class="nine columns abstract">
-        <div class="orange">{{ code.name }}</div>
-        {{ code.description | markdownify }}
-{% highlight python %}
-{{ code.code }}
-{% endhighlight %}
-      </div>
-      {% endfor %}
     </div>
+    {% endfor %}
     <hr>
   </div>
 </div>
