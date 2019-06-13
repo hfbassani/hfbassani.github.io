@@ -10,7 +10,7 @@
           <img class="u-max-full-width imgframe" src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.image }}" alt="">
         </div>
         <div class="nine columns abstract">
-          <div class="orange">{{ project.title }} ({{ project.year }})</div>
+          <div class="red">{{ project.title }} ({{ project.year }})</div>
           <div>{{ project.members | map: 'name' | join: ',  ' }}</div>
           <div class="blue">Funding: {{ project.funding | map: 'agency' | join: ' ' }}</div>
         </div>

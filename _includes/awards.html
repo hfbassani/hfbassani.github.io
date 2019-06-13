@@ -10,7 +10,7 @@
           <img class="u-max-full-width imgframe" src="{{ "/assets/img/awards/" | prepend: site.baseurl }}{{ award.img }}" alt="">
         </div>
         <div class="nine columns abstract">
-          <div class="orange">{{ award.year }} - {{ award.award }}</div>
+          <div class="red">{{ award.year }} - {{ award.award }}</div>
           <div>{{ award.members | map: 'name' | join: ',  ' }}</div>
           <a target="_blank" href="{{award.url}}">{{award.url}}</a>
         </div>

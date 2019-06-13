@@ -11,7 +11,7 @@
             <img class="u-max-full-width imgframe" src="{{ "assets/img/publication/" | prepend: site.baseurl }}{{ publication.image }}">
           </div>
           <div class="eight columns abstract">
-              <div class="orange">{{publication.year}} - {{ publication.title }}</div>
+              <div class="red">{{publication.year}} - {{ publication.title }}</div>
               <div>{{ publication.authors | map: 'name' | join: ',  ' | markdownify }}</div>
               <div class="blue">{{ publication.venue }}</div>
               {% for link in publication.links %}
