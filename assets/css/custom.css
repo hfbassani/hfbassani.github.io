@@ -44,7 +44,7 @@
 }
 
 .bg-blue {
-  background-color: #2285D2;
+  background-color: #4286f4;
 }
 
 .bg-gray {
@@ -58,8 +58,6 @@ p {
 /* Tooltip container */
 .tooltip {
   position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
 }
 
 /* Tooltip text */
@@ -70,7 +68,7 @@ p {
   color: #000;
   text-align: left;
   padding: 6px;
-  border: 1px dotted black;
+  border: 1px dashed black;
   border-radius: 6px;
   font-size: small;
   left: 330px;
