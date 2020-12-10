@@ -1,9 +1,8 @@
 # Site settings
 name: Hansenclever Bassani
 email: hfb@cin.ufpe.br
-title: Ph.D. in Computer Science
-description: > # this means to ignore newlines until "baseurl:"
-  Assistant Professor at <a target='_blank' href='https://cin.ufpe.br'> Universidade Federal de Pernambuco </a>
+title: Ph.D. in Computer Science and Assistant Professor at <a target='_blank' href='https://cin.ufpe.br'> Universidade Federal de Pernambuco </a>
+description: > # this means to ignore newlines until "baseurl:" "I have a PhD in Computational Intelligence from the Federal University of Pernambuco (UFPE). I have experience in machine learning, pattern recognition, and image processing and collaborated in several research projects, publishing my findings in journals and conferences mostly related with the study and applications of Artificial Neural Networks. Nowadays, my rosearch is focused on Assistive Robotics and Human-Computer Interaction. Currently, his research interests are focused on modeling brain and cognitive phenomena, such as the natural language acquisition by embodied agents. For a detailed list of my jobs, projects and publications, please check my" <a target='_blank' href='http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4130977P7'> CV Lattes </a>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hfbassani.github.io" # the base hostname & protocol for your site
 github_username:  hfbassani
